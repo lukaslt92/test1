@@ -1,0 +1,108 @@
+Upcoming release
+Fixed: Hill climb, push, and taxi reverse not applying to town occupation vehicles
+Removed: Opfor gaz66 medical vehicle
+Added: 10 AT disposable launchers to each starting vehicles
+Fixed: floating Camp in takistan
+
+1.06++
+Fixed: Rearm on some aircraft giving incorrect loadouts
+Tweaked: rearming an aicraft doesn't remove all of this ammo during rearm. 
+Fixed: tool kit repair not always fixing tires on a vehicle
+Tweaked: tool kit repair no longer repairs reactive armor on rhs tanks
+Tweaked: Tool Kit repair repairs damaged components to a maxium of 75% operational strength
+Tweaked: Rollup mbt prices +5%/+10%/+15%
+Replace: obyekt-681with bmd-4m (a) at opfor hf3
+Tweaked: Cyrus 9.3mm to opfor instead of navid
+Added: Remaining smoke grenades
+Tweaked: Correctly tier titan at(g3) and aa(g4)
+Tweaked: Unified blufor/opfor titan ammo cost (ap800/aa1500/at2500)
+Tweaked: Balance blufor/opfor lack of thermals
+
+1.06+
+Fixed: Depot available when camps are lost
+Replaced: Opfor mbt's with t72d/t80bkv/t80ue-1
+Tweaked: Reduced all AF prices (AF4-5%/AF3-10%/AF2-15%/AF1-20%/AF0-25%)
+
+1.06
+Tweaked: Moved l39 from air factory 1 to air factory 2
+Tweaked: Moved BRDM ATGM from light factory 0 to light factory 2
+Tweaked: Moved kajman from air factory 3 to air factory 4
+Tweaked: Changed price of orca armed from 18500 to 22500
+Tweaked: Changed price of kajman from 45000 to 50000
+Tweaked: Changed price of apache (empty) from 15000 to 17500
+Tweaked: Changed price of apache rocket pods from 20000 to 22500
+Tweaked: Changed price of apache AT from 40000 to 50000
+Tweaked: Changed price of ah-1z cobra (empty) from 15000 to 16000
+Tweaked: Changed price of ah-1z cobra rocket pods from 20000 to 22500
+Tweaked: Changed price of ah-1z cobra (AT) from 40000 to 50000
+Tweaked: Changed price of AH6 At (little bird AT) from 14500 to 22500
+Tweaked: Changed price of AH-99 Blackfoot from 65000 to 55000
+Tweaked: Changed price of Mi-24P Hind from 20000 to 25000
+Tweaked: Changed price of KA-52 from 60000 to 50000
+Tweaked: Player and AI bodies now despawn immediately after death
+Tweaked: Ai bodies now despawn after disband
+Tweaked: SAM - Engagement minimum alt 50m and rockets been modified to create less damage.
+Tweaked: SAM - Both sides share same Sam now, with new textures
+Tweaked: SAM - Smoke from sam rockets been replaced with vanilla smoke to create less fps drop.
+Tweaked: SAM - Will fire every 15 sec to 4k range. 
+Tweaked: Base health increased damage from AP shells, and decreased from HE canons and arty.
+Tweaked: Gear on player reconnect wasn’t saving some times.
+Tweaked: Cash flow decreased and supply rate increased by 15%
+Tweaked: Adjusted air lift for all mid-size choppers to lift tanks.
+Tweaked: Restructured base defense build menu. 
+Tweaked: Fuel consumption decrease to about 15-20%
+Tweaked: Base under attack hints will display more frequent. 
+Tweaked: Removed town circles from friendly towns to declutter the map a bit.
+Fixed: Peace time marker will not show.
+Fixed: Adjusted defense factions for Cram and all Sam units.
+Fixed: No SAM warning for players without vehicles or in parachute
+Fixed: Slammer up not purchasable on non-snow maps
+Fixed: Slammer not purchasable on snow maps
+Fixed: Titan AT launcher not accessible in gear 3 for blufor
+Fixed: Ruins from base buildings (such as base defense domes) now despawn quicker. 
+Fixed: Camps relocated inside town circle for some towns.
+Fixed: Town circle will disappear in some towns.
+Fixed: When player teamkills chat will display players name
+Fixed: When using toolkit to repair you could skip it to get instant repair.
+Fixed: Defense object collision.
+Added: Indicator hint for player shooting an enemy structure that contains the current health of the structure after shot
+Added: Hint for players if a friendly structure is attacked. displays health after damage
+Added: Friendly team notifications for when HQ is mobilized and deployed
+Added: Barracks upgrade level will increase player AI slots and skill
+Added: Camp award bounty
+Added: Depot purchase menu disabled if camp is lost to other side.
+Added: Low grass mod to core pack.
+Added: RHS Trucks to be able to load cargo such as ammo creates 
+Changed: Removed C-RAM2 (Missiles) as it is inferior to the normal C-RAM
+Removed: Some fortifications from defense truck menu.
+Removed: Items from defense truck and repair truck old action menus.
+Removed: Actions menus from halo drop.
+Tweaked: Halo jump cooldown now changed from 1 minute to 5 minutes.
+
+1.05
+Added: Spawn on vehicle disabled when enemy nearby 50M
+Added: Tank Low Gear / Hill climb
+Added: Tank Stealth mode
+Added: Parameter to set all camps required to capture town
+Added: All camps must be captured to capture town
+Added: Base area enemy reporting satellite upgrade
+Added: New satellite base structure 
+Added: Longer despawn timer for service vehicles and pods
+Added: RHS Support
+Added: New fuel consumption system
+Tweaked: UI Edits
+Tweaked: Weather no more crazy fog
+Tweaked: AI Patrols will now take the camps back
+Tweaked: Towns will spawn more AI
+Fixed: Persistent gear templates
+Fixed: Gear dup when adding weapons to cargo
+Fixed: Player starting cash would follow slot and not player
+Fixed: AI unit cam view
+Fixed: Patriot not firing on blufor
+Fixed: AI map labels
+Fixed: On teamswap player wont loose original gear
+Fixed: Issue where players could access equipment menu outside base
+Fixed: Reload and clear buttons are disabled unless near gear source
+Fixed: Respawn pods and ammo pods
+Fixed: Teamstack system would show incorrect message
+Fixed: Fuel truck now has service menu

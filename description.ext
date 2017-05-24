@@ -1,0 +1,33 @@
+/*
+	BECTI: By Benny (benny_boy66@hotmail.fr)
+	  "Praise the bugs!"
+*/
+
+#include "Rsc\Game.hpp"
+#include "Rsc\Resources.hpp"
+#include "Rsc\Dialogs.hpp"
+#include "Rsc\Titles.hpp"
+#include "Rsc\Notifications.hpp"
+#include "Rsc\Debriefing.hpp"
+#include "Rsc\Parameters.hpp"
+#include "Rsc\Sounds.hpp"
+#include "Client\Functions\Externals\ATM_airdrop\ATM_airdrop.hpp"
+
+//--- Player Name tag
+class CfgFunctions
+{
+	#include "Client\Functions\Externals\zam_shownames\zam_shownames.cpp"
+	#include "Common\Functions\External\LARs\LARs_spawnComp.cpp"
+};
+#include "Common\Config\Compositions\compositions.cfg"
+
+//VON Modification
+//channel, disableChat, disableVoice
+//0=global, 1=side, 2=command, 3=group, 4=vehicle, 5=direct, 6=system
+disableChannels[] = { {0,false,true}, {2,true,true}, {6,true,true} };
+
+// For Headless Client
+joinUnassigned = 0;
+
+// Debug Enable
+enableDebugConsole = 1;
