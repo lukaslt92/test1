@@ -1,0 +1,134 @@
+version=52;
+center[]={1633.9165,5.5,5409.7671};
+class items
+{
+	items=8;
+	class Item0
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={0.047363281,1.6998744,-1.4414063};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=55;
+		type="Land_Mil_WallBig_4m_F";
+	};
+	class Item1
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-2.7165527,1.7002764,-1.1313477};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=56;
+		type="Land_Mil_WallBig_Corner_F";
+	};
+	class Item2
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-3.3392334,1.6998744,1.5600586};
+			angles[]={0,4.712389,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=57;
+		type="Land_Mil_WallBig_4m_F";
+	};
+	class Item3
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={3.3724365,1.6998744,1.6635742};
+			angles[]={0,1.5707964,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=58;
+		type="Land_Mil_WallBig_4m_F";
+	};
+	class Item4
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={2.8050537,1.7002764,-1.0678711};
+			angles[]={0,4.712389,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=59;
+		type="Land_Mil_WallBig_Corner_F";
+	};
+	class Item5
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={0.084472656,4.9050007,1.0751953};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=60;
+		type="Land_Cargo_Patrol_V1_F";
+		atlOffset=4.7683716e-007;
+	};
+	class Item6
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={1.9898682,6.2081337,-0.34082031};
+			angles[]={0,3.1415927,0};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+		};
+		id=61;
+		type="B_GMG_01_high_F";
+		atlOffset=0.2039547;
+	};
+	class Item7
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-2.2431641,6.2081347,-0.31884766};
+			angles[]={0,3.1415927,0};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+		};
+		id=62;
+		type="B_GMG_01_high_F";
+		atlOffset=0.20395565;
+	};
+};

@@ -1,0 +1,37 @@
+version=52;
+center[]={1752.116,5.5,5806.1396};
+class items
+{
+	items=2;
+	class Item0
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={0.089477539,0.96563101,-0.0390625};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+		};
+		id=0;
+		type="Land_BagBunker_Small_F";
+	};
+	class Item1
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-0.089477539,1.6602917,0.0390625};
+			angles[]={0,3.1737866,0};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+		};
+		id=2;
+		type="B_HMG_01_high_F";
+	};
+};
